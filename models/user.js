@@ -1,7 +1,3 @@
-//WORKOUT LOG
-//WORKOUT LOG
-//WORKOUT LOG
-
 const sequelize = require('sequelize');
 const database = require('../db');
 
